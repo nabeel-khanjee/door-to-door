@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252896902929",
+    "project_id": "door-2-door-4decd",
+    "storage_bucket": "door-2-door-4decd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252896902929:android:8e8e370b41f76b208cd6b0",
+        "android_client_info": {
+          "package_name": "com.midwaretech.doortodoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252896902929-pn6opo0qdi1ujhnp0nvhgqlep5gsmj3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawkcKwiFdv-nfqKc_WJZ3r55Tt_Gm-6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252896902929-pn6opo0qdi1ujhnp0nvhgqlep5gsmj3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
